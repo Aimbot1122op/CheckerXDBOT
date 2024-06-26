@@ -18,7 +18,7 @@ BOT_USERNAME = BOT_INFO['username']
 BOT_NAME = BOT_INFO['first_name']
 
 PREFIX = ['.', '!', '/']
-CHANNEL = "NandhaBots"
+CHANNEL = "jujutsukaisenaimbot"
 
 ######################################################################################################################################################
 
